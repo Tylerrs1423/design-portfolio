@@ -1,6 +1,6 @@
 # Tyler Smith – System Design Portfolio
 
-Welcome to my design portfolio! Below, you will find architecture diagrams and high-level design flows from my major engineering projects. Each visual links directly with work described on my [resume](./Tyler_R_Smith_Resume.pdf) and their respective repositories.
+Welcome to my design portfolio! Below, you will find architecture diagrams and high-level design flows from my major engineering projects. Each visual links directly with work described on my resume and their respective repositories.
 
 ---
 
